@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekshu007
 - 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for internships
 - 📫 How to reach me my email id is ekshupradeep@gmail.com
 
 <!---
